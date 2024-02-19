@@ -1,6 +1,6 @@
 {
-  "homepage": "https://georgelucgo.github.io/projeto-cardapio/",
-  "name": "projeto-cardapio",
+  "homepage": "https://georgelucgo.github.io/projeto-cardapio/restaurante/",
+  "name": "restaurante",
   "private": true,
   "version": "0.0.0",
   "type": "module",
